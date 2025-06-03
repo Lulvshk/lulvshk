@@ -1,9 +1,10 @@
 
-![[media/banner.png]]
+[![banner](./media/banner.png)]
+
 
 ## About me
 ---
-I am a Information Systems Engineering student at the Universidad Tecnológica Nacional (UTN FRBA) since 2024, but I started learning about coding in 2020 on my own. I mainly do back-end development and I'm proactive, productive, creative and really into learning something new.
+I am an Information Systems Engineering student at the Universidad Tecnológica Nacional (UTN FRBA) since 2024, but I started learning about coding in 2020 on my own. I mainly do back-end development and I'm proactive, productive, creative and really into learning something new.
  * 🧠 I'm open to collaborate on open source projects.
  * 💼 Currently unemployed, but open to job offers.
 ## Skills
