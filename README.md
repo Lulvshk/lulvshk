@@ -1,7 +1,5 @@
 
-[![banner](./media/banner.png)]
-
-
+![banner](./media/banner.png)
 ## About me
 ---
 I am an Information Systems Engineering student at the Universidad Tecnológica Nacional (UTN FRBA) since 2024, but I started learning about coding in 2020 on my own. I mainly do back-end development and I'm proactive, productive, creative and really into learning something new.
