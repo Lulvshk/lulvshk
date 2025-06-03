@@ -1,5 +1,5 @@
 
-![[banner.png]]
+![[media/banner.png]]
 
 ## About me
 ---
